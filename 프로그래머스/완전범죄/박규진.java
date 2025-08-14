@@ -36,7 +36,7 @@ class Solution {
                 }
             }
         }
-
         return minATrace == Integer.MAX_VALUE ? -1 : minATrace;
     }
 }
+
